@@ -1,6 +1,8 @@
 # ahp
 Analytic Hierarchy Process (AHP) for Survey Data Use ahp (ahpsurvey) With (In) R Software
 
+https://www.youtube.com/watch?v=uuvIF2W49yQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
